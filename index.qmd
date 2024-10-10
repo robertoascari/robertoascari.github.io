@@ -19,7 +19,7 @@ about:
       href: https://www.linkedin.com/in/rascari/
     - icon: github
       text: "Github"
-      href: https://github.com/RAscari
+      href: https://github.com/robertoascari
 ---
 
 ------------------------------------------------------------------------

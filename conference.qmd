@@ -5,6 +5,4 @@ editor: visual
 
 ## Conferences
 
--   
-
-    **Invited talk**:
+-   **Invited talk**:
