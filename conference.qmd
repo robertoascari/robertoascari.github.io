@@ -1,0 +1,10 @@
+---
+title: ""
+editor: visual
+---
+
+## Conferences
+
+-   NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.
+
+    **Invited talk**: *Co-clustering ordinal data with informative censoring.*

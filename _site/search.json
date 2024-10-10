@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RobertoAscari",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Roberto Ascari",
+    "section": "About me",
+    "text": "About me\nI am an Assistant Professor in Statistics at the department of Economics, Management and Statistics (DEMS) at University of Milano-Bicocca.\nResearch interests: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.\nE-mail: roberto.ascari@unimib.it"
+  }
+]

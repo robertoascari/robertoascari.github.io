@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - /files
+    - /img
+
+website:
+  title: "Roberto Ascari"
+  search: false
+  navbar: 
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About me
+      - href: paper.qmd
+        text: Papers
+      - href: teach.qmd
+        text: Teaching
+      - href: conference.qmd
+        text: Conferences
+      - href: thesis.qmd
+        text: Thesis
+      
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+editor: visual
+

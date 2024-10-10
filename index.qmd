@@ -1,0 +1,33 @@
+---
+title: "Roberto Ascari"
+subtitle: "Assistant Professor at University of Milano-Bicocca"
+page-layout: full
+about:
+  template: solana
+  image-width: 8em
+  image: img/Ascari_Pic.jpeg
+  image-shape: round
+  links:
+    - icon: journal-text
+      text: "Curriculum vitae"
+      href: files/Ascari_cv_2024_10 - ITA.pdf
+    - icon: envelope-at
+      text: "E-mail"
+      href: "mailto: roberto.ascari@unimib.it"
+    - icon: linkedin
+      text: "Linkedin"
+      href: https://www.linkedin.com/in/rascari/
+    - icon: github
+      text: "Github"
+      href: https://github.com/RAscari
+---
+
+------------------------------------------------------------------------
+
+## About me
+
+I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) at [University of Milano-Bicocca](https://en.unimib.it).
+
+**Research interests**: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.
+
+**E-mail**: roberto.ascari\@unimib.it
