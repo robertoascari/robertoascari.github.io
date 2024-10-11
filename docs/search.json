@@ -25,7 +25,7 @@
     "href": "thesis.html#possibili-argomenti-tesi",
     "title": "Tesi",
     "section": "Possibili Argomenti Tesi",
-    "text": "Possibili Argomenti Tesi\nTBD"
+    "text": "Possibili Argomenti Tesi\n\nStudio di particolari modelli mistura finiti a due componenti e relativi metodi di stima.\nModello di regressione Dirichlet per risposte composizionali.\nL’extended flexible Dirichlet: una mistura per dati composizionali.\nRegressioni penalizzate: Ridge e Lasso.\nLatent topic models per dati del microbioma umano."
   },
   {
     "objectID": "paper.html",
