@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "thesis.html#thesis",
-    "href": "thesis.html#thesis",
+    "objectID": "thesis.html",
+    "href": "thesis.html",
     "title": "Thesis",
-    "section": "Thesis",
-    "text": "Thesis"
+    "section": "",
+    "text": "[TBD]{.text-primary}"
+  },
+  {
+    "objectID": "thesis.html#informazioni-scrittura-tesi",
+    "href": "thesis.html#informazioni-scrittura-tesi",
+    "title": "Thesis",
+    "section": "",
+    "text": "[TBD]{.text-primary}"
+  },
+  {
+    "objectID": "thesis.html#laureandi",
+    "href": "thesis.html#laureandi",
+    "title": "Thesis",
+    "section": "Laureandi",
+    "text": "Laureandi\nDi seguito viene riportato il numero di tesisti che desiderano laurearsi nelle future sessioni di laurea. Tendenzialmente, non vengono accettati più di quattro tesisti per appello di laurea.\n\n\n\nAppello di laurea\nTesisti prenotati\n\n\n\n\nGennaio 2025\n1\n\n\nMarzo 2025\n4\n\n\nLuglio 2025\n2\n\n\nSettembre 2025\n0\n\n\nOttobre 2025\n0"
   },
   {
     "objectID": "paper.html",
@@ -84,15 +98,15 @@
     "text": "About me\nI am an Assistant Professor in Statistics at the Department of Economics, Management and Statistics (DEMS) of the University of Milano-Bicocca.\nResearch interests: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.\nE-mail: roberto.ascari@unimib.it"
   },
   {
-    "objectID": "teach.html",
-    "href": "teach.html",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Roberto Ascari",
     "section": "",
     "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 hours (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 hours (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 hours (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."
   },
   {
-    "objectID": "teach.html#teaching",
-    "href": "teach.html#teaching",
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
     "title": "Roberto Ascari",
     "section": "",
     "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 hours (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 hours (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 hours (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."

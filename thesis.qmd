@@ -4,6 +4,18 @@ format: html
 editor: visual
 ---
 
-## Thesis Information
+## Informazioni Scrittura Tesi
 
-## Thesis
+\[**TBD**\]{.text-primary}
+
+## Laureandi
+
+Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle future sessioni di laurea. Tendenzialmente, non vengono accettati più di **quattro** tesisti per appello di laurea.
+
+| Appello di laurea | Tesisti prenotati |
+|-------------------|-------------------|
+| Gennaio 2025      | 1                 |
+| Marzo 2025        | 4                 |
+| Luglio 2025       | 2                 |
+| Settembre 2025    | 0                 |
+| Ottobre 2025      | 0                 |

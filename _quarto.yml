@@ -17,12 +17,12 @@ website:
         text: About me
       - href: paper.qmd
         text: Papers
-      - href: teach.qmd
+      - href: teaching.qmd
         text: Teaching
       - href: conference.qmd
         text: Seminars & Conferences
       - href: thesis.qmd
-        text: Thesis
+        text: Thesis (ITA)
       
 
 format:
