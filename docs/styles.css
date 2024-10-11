@@ -25,6 +25,7 @@ ul li::before {
 
 .darkred{
   color: #DF0606;
+  font-weight: bold;
 }
 
 .orange{

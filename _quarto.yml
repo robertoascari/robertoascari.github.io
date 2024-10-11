@@ -27,7 +27,7 @@ website:
 
 format:
   html:
-    theme: superhero
+    theme: simplex
     css: styles.css
     toc: true
 editor: visual

@@ -1,192 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "University of Milano-Bicocca, Department of Economics, Management and Statistics (DEMS), Milan, Italy.\n\nAssistant Professor (RTD-B), Mar 2024 - Present;\nAssistant Professor (RTD-A), Mar 2022 - Feb 2024;\nPostdoctoral fellow, Jun 2019 - Feb 2021;\nResearch associate, Apr 2019 - Jun 2019."
-  },
-  {
-    "objectID": "about.html#quarto",
-    "href": "about.html#quarto",
-    "title": "about",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "about.html#running-code",
-    "href": "about.html#running-code",
-    "title": "about",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Alice Giampino",
-    "section": "",
-    "text": "----------------------------------------------------------------\n## About me {.central}"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Roberto Ascari",
-    "section": "About me",
-    "text": "About me\nI am an Assistant Professor in Statistics at the Department of Economics, Management and Statistics (DEMS) at University of Milano-Bicocca.\nResearch interests: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.\nE-mail: roberto.ascari@unimib.it"
-  },
-  {
-    "objectID": "teach.html",
-    "href": "teach.html",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 ore (2022/23 - ad oggi). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 ore (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 ore (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 ore (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."
-  },
-  {
-    "objectID": "teach.html#teaching",
-    "href": "teach.html#teaching",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 ore (2022/23 - ad oggi). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 ore (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 ore (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 ore (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."
-  },
-  {
-    "objectID": "about.html#teaching-assistant",
-    "href": "about.html#teaching-assistant",
-    "title": "Alice Giampino",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nM.Sc courses (Laurea magistrale)\n\nBayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021)."
-  },
-  {
-    "objectID": "about.html#tutor",
-    "href": "about.html#tutor",
-    "title": "Alice Giampino",
-    "section": "Tutor",
-    "text": "Tutor\n\nStatistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022).\nR for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022)."
-  },
-  {
-    "objectID": "about.html#projects",
-    "href": "about.html#projects",
-    "title": "Alice Giampino",
-    "section": "Projects",
-    "text": "Projects\n\nScientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with changepoint detection.\nTopic modelling techniques with distributions defined on the simplex."
-  },
-  {
-    "objectID": "research.html#research",
-    "href": "research.html#research",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "I am interested on Bayesian Analysis, especially on Bayesian Nonparametric models. My research is based on exploring innovative approaches in model-based clustering. I am currently working on:\n\nBayesian clustering methods with high dimensional data;\nMultivariate time series with changepoint detection.\nTopic modelling techniques with distributions defined on the simplex."
-  },
-  {
-    "objectID": "research.html#currently-research-projects",
-    "href": "research.html#currently-research-projects",
-    "title": "Alice Giampino",
-    "section": "Currently research projects",
-    "text": "Currently research projects\n\n_, B. Nipoti, A. Canale, A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring, (2024+)\\ Target journal: Statistics and Computing;\n_, M. Guindani, B. Nipoti, M. Vannucci, Changepoint Detection with Random Partition Models, (2024+), Target journal: Bayesian Analysis;\nR.Ascari, _, S. Migliorati, An extension of latent Dirichlet allocation, (2024+), Target journal: Journal of Machine Learning Research."
-  },
-  {
-    "objectID": "research.html#phd-courses-projects",
-    "href": "research.html#phd-courses-projects",
-    "title": "Alice Giampino",
-    "section": "PhD courses projects",
-    "text": "PhD courses projects\n\nGradient - R package: R package to calculate the gradient of a function.\nPost selection inference fMRI Data: visualization of active area in a brain during an experiment.\nForest Fire Bayesian Analysis: an analysis of the burnt area for forest fires in Portugal."
-  },
-  {
-    "objectID": "other.html",
-    "href": "other.html",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
-  },
-  {
-    "objectID": "other.html#conferences---workshop",
-    "href": "other.html#conferences---workshop",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
-  },
-  {
-    "objectID": "other.html#ph.d.-projects",
-    "href": "other.html#ph.d.-projects",
-    "title": "Roberto Ascari",
-    "section": "Ph.D. projects",
-    "text": "Ph.D. projects\n\nGradient - R package: R package to calculate the gradient of a function.\nPost selection inference fMRI Data: visualization of active area in a brain during an experiment.\nForest Fire Bayesian Analysis: an analysis of the burnt area for forest fires in Portugal."
-  },
-  {
-    "objectID": "research.html#research-projects",
-    "href": "research.html#research-projects",
-    "title": "Roberto Ascari",
-    "section": "Research projects",
-    "text": "Research projects\n\nA. Giampino, B. Nipoti, A. Canale, A Bayesian Method for Co-clustering Ordinal Data with Informative Censoring, (2024+). Target journal: Statistics and Computing;\nA. Giampino, M. Guindani, B. Nipoti, M. Vannucci, Local Level Dynamic Random Partition Models for Changepoint Detection, (2024+). Target journal: Bayesian Analysis. See the ArXiv!;\nR.Ascari, A. Giampino, S. Migliorati, An extension of latent Dirichlet allocation, (2024+). Target journal: Journal of Machine Learning Research."
-  },
-  {
-    "objectID": "research.html#short-papers",
-    "href": "research.html#short-papers",
-    "title": "Roberto Ascari",
-    "section": "Short papers",
-    "text": "Short papers\n\nComputational and Methodological Statistics (CMStatistics) 2023:\nGiampino A., Guindani M., Nipoti B. & Vannucci M. Changepoint detection with random partition models.\nBook of Abstract. ISBN 978-9925-7812-7-0\nClassification and Data Analysis (CLADAG) 2023:\nAscari R. & Giampino A., A Flexible Topic Model.\nBook of Abstract. ISBN 978-8891-9356-3-2\nComputational and Methodological Statistics (CMStatistics) 2022:\nAscari R. & Giampino A., A generalization of the latent Dirichlet allocation.\nBook of Abstract. ISBN 978-9925-7812-6-3\nComputational Statistics (COMPSTAT) 2022:\nGiampino A., Ascari R. & Migliorati S., LEFDA: An extension of the classical LDA.\nBook of Abstract. ISBN 978-90-73592-40-7"
-  },
-  {
-    "objectID": "research.html#award",
-    "href": "research.html#award",
-    "title": "Roberto Ascari",
-    "section": "Award",
-    "text": "Award\n\nPh.D. Fellowship, Nov 2019 - Oct 2023: University of Milano - Bicocca, Milan (Italy)\nOBayes (Objective Bayes Methodology Conference) 2022: Travel award\nISBA (International Society for Bayesian Analysis) 2022: Travel award\nSUS5 (Stats Under the Stars 5th edition) 2019: Winner of the statistical hackathon in 2019."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Alice Giampino",
-    "section": "Education",
-    "text": "Education\n - Ph.D. in Statistical Sciences, University of Milano-Bicocca, Milan, Italy.\nPeriod 2019--2023. \nThesis title: [*Innovative approaches to Bayesian Clustering Methods: parametric and nonparametric perspectives*](files/PhD_thesis_Alice_Giampino.pdf).  \nI worked under the joint supervision of  prof. [Bernardo Niporti](https://www.bernardonipoti.com/) and prof. [Michele Guindani](https://www.micheleguindani.info/). \n\nM.Sc. in Statistical Sciences, University of Milano-Bicocca, Milan, Italy.\nPeriod 2017 - 2019. Final mark: 110/110 with laude.\nThesis title: Functional telecommunication data: a Bayesian nonparametric approach.\n\nAdvisor: Sonia Migliorati.\n\nB.Sc. in Statistical sciences, University of Milano-Bicocca, Milan, Italy.\n\nPeriod 2014–2017. Final mark: 110/110 with laude.\nThesis title: Box-Cox transformation: an analysis based on the likelihood.\nAdvisor: Sonia Migliorati."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Roberto Ascari",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Statistics and Mathematics for Finance, University of Milano-Bicocca.\nPeriod: 2015 - 2018.\nThesis: A family of flexible mixture distributions for constrained data.\nAdvisor: Prof. Andrea Ongaro.\nM.Sc. in Biostatistics, University of Milano-Bicocca.\nPeriod: 2013 - 2015. Final mark: 110/110 with honors.\nThesis: MCMC Bayesian estimation for a particular mixture model on the simplex.\nAdvisor: Prof. Sonia Migliorati.\nB.Sc. in Statistics and Information Management, University of Milano-Bicocca.\nPeriod: 2019 - 2013. Final mark: 107/110.\nThesis: Mortality and respiratory tract infections in a population of 7000 patients undergoing cardiac surgery.\nAdvisor: Prof. Vincenzo Bagnardi."
-  },
-  {
-    "objectID": "other.html#m.sc.-projects",
-    "href": "other.html#m.sc.-projects",
-    "title": "Alice Giampino",
-    "section": "M.Sc. projects",
-    "text": "M.Sc. projects\n\nOutlier detection with different models(R language);\nFraud detection (Knime, R)}.\nAmes House Price prediction(R code)"
-  },
-  {
-    "objectID": "other.html#m.sc.-projects-italian",
-    "href": "other.html#m.sc.-projects-italian",
-    "title": "Roberto Ascari",
-    "section": "M.Sc. projects (Italian)",
-    "text": "M.Sc. projects (Italian)\n\nOutlier detection with different models(R language);\nFraud detection (Knime, R)."
-  },
-  {
-    "objectID": "teach.html#teaching-assistant",
-    "href": "teach.html#teaching-assistant",
-    "title": "Roberto Ascari",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nM.Sc courses (Laurea magistrale)\n\nBayesian Learning and Monte Carlo Methods, Department of Mathematics, Polytechnic University of Milan (2020-2021)."
-  },
-  {
-    "objectID": "teach.html#tutor",
-    "href": "teach.html#tutor",
-    "title": "Roberto Ascari",
-    "section": "Tutor",
-    "text": "Tutor\n\nStatistical Model, Bachelor in Statistics, University of Milano-Bicocca (2018-2019-2022).\nR for the multivariate statistical analysis, Bachelor in Statistics, University of Milano-Bicocca (2022)."
-  },
-  {
-    "objectID": "teach.html#projects",
-    "href": "teach.html#projects",
-    "title": "Roberto Ascari",
-    "section": "Projects",
-    "text": "Projects\n\nScientific Degrees Plan: presenting statistics to high schools (from 2018 to 2024)"
+    "objectID": "thesis.html#thesis",
+    "href": "thesis.html#thesis",
+    "title": "Thesis",
+    "section": "Thesis",
+    "text": "Thesis"
   },
   {
     "objectID": "paper.html",
@@ -203,46 +21,25 @@
     "text": "Accepted - Colicino, E., Ascari, R., Saddiki, H. et al. Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. Biometrical Journal, 10.1002/bimj.202300270.\nAccepted - Gerli, S., Ascari, R., Migliorati, S., Cigna, T., Borrotti, M. Beyond human labelling: an automatic topic identification framework for big web data. Electronic Journal of Applied Statistical Analysis.\n2024 - Ongaro, A., Migliorati, S., Ascari, R., Ripamonti, E. Testing practical relevance of treatment effects. Statistical Papers, 65, 4121-–4145, 10.1007/s00362-024-01549-x.\n2024 - Ascari, R., Giabelli, A., Malandri, L., Mercorio, F., Mezzanzanica, M. A Fistful of Vectors: A Tool for Intrinsic Evaluation of Word Embeddings. Cognitive Computation, 16, 949–-963, 10.1007/s12559-023-10235-3.\n2024 - Ascari, R., Di Brisco, A.M., Migliorati, S., Ongaro, A. A Multivariate Mixture Regression Model for Constrained Responses. Bayesian Analysis, 19(2), 377–405, 10.1214/22-BA1359.\n2021 - Ascari, R., Migliorati, S. A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Statistics in Medicine, 40(17), 3895–3914, 10.1002/sim.9005.\n2021 - Oliveira dos Anjos, T.B., [et al., including Ascari, R.]. Eutrophic status influences the impact of pesticide mixtures and predation on Daphnia pulex populations. Ecology and Evolution. 11(9), 4046-4057, 10.1002/ece3.7305.\n2021 - Sorrentino, S., Ascari, R., et al. (2021). Microglial heterogeneity and its potential role in driving phenotypic diversity of alzheimer’s disease. International Journal of Molecular Sciences, 22(5), 2780, 10.3390/ijms22052780.\n2020 - Maranzano, P., Ascari, R., Chiodini, P.M., Manzi, G. Analysis of sustainability of bike-sharing customers using Partially Ordered Sets methodology. Social Indicator Research, 157, 123–138, 10.1007/s11205-020-02333-8.\n2020 - Ongaro, A., Migliorati, S., Ascari, R. A new mixture model on the simplex. Statistics and Computing, 30, 749-770, 10.1007/s11222-019-09920-x.\n2015 - Scandroglio, A., Finco, G., [et al, including Ascari, R.]. Cardiac surgery in 260 octogenarians: a case series. BMC Anesthesiology, 15. 10.1186/1471-2253-15-15.\n2015 - Pieri, M., Landoni, G., [et al, including Ascari, R.]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. Signa Vitae, 10(2), 65–68, 10.22514/SV102.122015.5. }"
   },
   {
-    "objectID": "paper.html#award",
-    "href": "paper.html#award",
+    "objectID": "paper.html#submitted-papers",
+    "href": "paper.html#submitted-papers",
     "title": "Roberto Ascari",
-    "section": "Award",
-    "text": "Award"
+    "section": "Submitted papers",
+    "text": "Submitted papers\n\nA new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to The Annals of Applied Statistics (second submission).\nA new mixed-membership model for community and enterotype detection for microbiome data. Submitted to Computational Statistics & Data Analysis. Joint work with Alice Giampino and Sonia Migliorati.\nFlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro."
   },
   {
     "objectID": "conference.html",
     "href": "conference.html",
     "title": "Roberto Ascari",
     "section": "",
-    "text": "Dec 2022 - The flexible latent Dirichlet allocation. Dipartimento di Studi per l’Economia e l’Impresa (DISEI), Università del Piemonte Orientale. link\nNov 2021 - A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Department of Economics, University of Crete link"
+    "text": "Dec 2022 - The flexible latent Dirichlet allocation. Dipartimento di Studi per l’Economia e l’Impresa (DISEI), University of Piemonte Orientale. link\nNov 2021 - A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Department of Economics, University of Crete. link"
   },
   {
-    "objectID": "conference.html#conferences---workshop",
-    "href": "conference.html#conferences---workshop",
+    "objectID": "conference.html#seminars",
+    "href": "conference.html#seminars",
     "title": "Roberto Ascari",
     "section": "",
-    "text": "NEXT: Computational and Methodological Statistics (CMStatistics), Dec 2024, London, UK.\nInvited talk: Co-clustering ordinal data with informative censoring.\nBAYSM -ISBA (International Society for Bayesian Analysis), June 2024, Venice, Italy.\nPoster session: Changepoint detection with random partiton models\nSIS (Italian Society of Statistics), June 2024, Bari, Italy.\nContributed talk: Microbiome enterotype detection via a latent variable allocation model\nComputational and Methodological Statistics (CMStatistics), 2023. Berlin, German.\nInvited talk: Changepoint detection with random partiton models.\nWorkshop - Approximation Methods in Bayesian Analysis, 2023. CIRM, Marseille, France.\nTalk and poster: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nASMDA (Applied Stochastic Models and Data Analysis), 2023. Heraklion, Crete, Greece.\nTalk: A flexible generalization of the Latent Dirichlet distribution.\nOBayes (Objective Bayes Methodology Conference), 2022. Santa Cruz, CA, U.S.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring.\nCOMPSTAT (Computational Statistics), 2022. Bologna, Italy.\nTalk: LEFDA: An extension of the classical Latent Dirichlet Allocation.\nISBA (International Society for Bayesian Analysis), 2022. Montreal, Canada.\nPoster session: A Bayesian Method for Co-clustering Multivariate Ordinal Data with Informative Censoring."
-  },
-  {
-    "objectID": "conference.html#ph.d.-projects",
-    "href": "conference.html#ph.d.-projects",
-    "title": "Roberto Ascari",
-    "section": "Ph.D. projects",
-    "text": "Ph.D. projects\n\nGradient - R package: R package to calculate the gradient of a function.\nPost selection inference fMRI Data: visualization of active area in a brain during an experiment.\nForest Fire Bayesian Analysis: an analysis of the burnt area for forest fires in Portugal."
-  },
-  {
-    "objectID": "conference.html#m.sc.-projects-italian",
-    "href": "conference.html#m.sc.-projects-italian",
-    "title": "Roberto Ascari",
-    "section": "M.Sc. projects (Italian)",
-    "text": "M.Sc. projects (Italian)\n\nOutlier detection with different models(R language);\nFraud detection (Knime, R)."
-  },
-  {
-    "objectID": "about.html#academic-positions",
-    "href": "about.html#academic-positions",
-    "title": "Roberto Ascari",
-    "section": "",
-    "text": "University of Milano-Bicocca, Department of Economics, Management and Statistics (DEMS), Milan, Italy.\n\nAssistant Professor (RTD-B), Mar 2024 - Present;\nAssistant Professor (RTD-A), Mar 2022 - Feb 2024;\nPostdoctoral fellow, Jun 2019 - Feb 2021;\nResearch associate, Apr 2019 - Jun 2019."
+    "text": "Dec 2022 - The flexible latent Dirichlet allocation. Dipartimento di Studi per l’Economia e l’Impresa (DISEI), University of Piemonte Orientale. link\nNov 2021 - A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Department of Economics, University of Crete. link"
   },
   {
     "objectID": "conference.html#conferences",
@@ -252,11 +49,25 @@
     "text": "Conferences\n\n2024 - 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13–16 December 2024, London (UK).\nInvited talk: Identifying microbiome communities and enterotypes using a novel mixed-membership model.\n2024 - SIS2024, 52nd scientific meeting of the Italian Statistical Society, 17–20 June 2024, Bari (Italy).\nContributed talk: A new distribution for overdispersed count data.\n2023 - 14th CLAssification and Data Analysis Group (CLADAG), 11–13 September 2023, Salerno (Italy).\nContributed talk: A flexible topic model.\n2023 - SIS2023, Statistical Learning, Sustainability and Impact Evaluation, 21–23 June 2023, Ancona (Italy).\nInvited talk: An alternative to the Dirichlet-multinomial regression model for microbiome data analysis.\n2022 - 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, 17–19 December 2022, London (UK).\nInvited talk: A generalization of the latent Dirichlet allocation.\n2022 - 17th conference of the International Federation of Classification Societies (iFCS)’’. 19–23 July 2022. Porto (Portugal).\nContributed talk: A New Regression Model for the Analysis of Microbiome Data.\n2022 - ISBA World Meeting, 26 June – 1 July, Montreal (Canada).\nPoster: The flexible Dirichlet-multinomial regression model.\n2021 - 13th CLAssification and Data Analysis Group (CLADAG), 9–11 September 2021, Florence (Italy).\nContributed talk: A full mixture of experts model to classify constrained data.\n2021 - 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, 1–4 June 2021, Atene (Greece).\nOrganizer of the session: Regression models for responses with bounded support.\n2021 - 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, 1–4 June 2021, Atene (Greece).\nContributed talk: A new regression model for count compositions.\n\n2021 - SIS2021, 21–25 June 2021.   Contributed talk: Alternative parameterizations for regression models with constrained multivariate responses.\n2020 - 6th Stochastic Modeling Techniques and Data Analysis (SMTDA) International Conference, 2–5 June 2020.\nInvited talk: The flexible beta-binomial regression model.\n2019 - 12th International Conference of the ERCIM WG on Computational and Methodological Statistics, 14–16 December 2019, London (UK).\nContributed talk: A new regression model for discrete data allowing for overdispersion.\n2019 - SIS2019, Smart Statistics for Smart Applications, 18–21 June 2019, Milan (Italy).\nContributed talk: A new regression model for bounded multivariate responses.\n2019 - 18th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society. 11–14 June 2019, Florence (Italy).\nContributed talk: A new simplex distribution allowing for positive covariances.\n2018 - 11th International Conference of the ERCIM WG on Computational and Methodological Statisticsm 14–16 December 2018, Pisa (Italy).\nContributed talk: A new Dirichlet-multinomial mixture model for count data.\n2017 - 11th CLAssification and Data Analysis Group (CLADAG)’’}, 13–15 September 2017, Milan (Italy).\nContributed talk: A Special Dirichlet Mixture Model in a Bayesian Perspective.\n2017 - 17th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, 6–9 June 2017, London (UK).\nContributed talk: The Extended Flexible Dirichlet model: a simulation study."
   },
   {
-    "objectID": "thesis.html#thesis",
-    "href": "thesis.html#thesis",
-    "title": "Thesis",
-    "section": "Thesis",
-    "text": "Thesis"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Roberto Ascari",
+    "section": "",
+    "text": "University of Milano-Bicocca, Department of Economics, Management and Statistics (DEMS), Milan, Italy.\n\nAssistant Professor (RTD-B), Mar 2024 - Present;\nAssistant Professor (RTD-A), Mar 2022 - Feb 2024;\nPostdoctoral fellow, Jun 2019 - Feb 2021;\nResearch associate, Apr 2019 - Jun 2019."
+  },
+  {
+    "objectID": "about.html#academic-positions",
+    "href": "about.html#academic-positions",
+    "title": "Roberto Ascari",
+    "section": "",
+    "text": "University of Milano-Bicocca, Department of Economics, Management and Statistics (DEMS), Milan, Italy.\n\nAssistant Professor (RTD-B), Mar 2024 - Present;\nAssistant Professor (RTD-A), Mar 2022 - Feb 2024;\nPostdoctoral fellow, Jun 2019 - Feb 2021;\nResearch associate, Apr 2019 - Jun 2019."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Roberto Ascari",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Statistics and Mathematics for Finance, University of Milano-Bicocca.\nPeriod: 2015 - 2018.\nThesis: A family of flexible mixture distributions for constrained data.\nAdvisor: Prof. Andrea Ongaro.\nM.Sc. in Biostatistics, University of Milano-Bicocca.\nPeriod: 2013 - 2015. Final mark: 110/110 with honors.\nThesis: MCMC Bayesian estimation for a particular mixture model on the simplex.\nAdvisor: Prof. Sonia Migliorati.\nB.Sc. in Statistics and Information Management, University of Milano-Bicocca.\nPeriod: 2019 - 2013. Final mark: 107/110.\nThesis: Mortality and respiratory tract infections in a population of 7000 patients undergoing cardiac surgery.\nAdvisor: Prof. Vincenzo Bagnardi."
   },
   {
     "objectID": "about.html#award",
@@ -266,17 +77,24 @@
     "text": "Award\n\nYoung Talents Award, 2024 Edition - University of Milano-Bicocca with the sponsorship of the “Accademia Nazionale dei Lincei”. [Third Prize]{https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2024}"
   },
   {
-    "objectID": "paper.html#submitted-papers",
-    "href": "paper.html#submitted-papers",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Roberto Ascari",
-    "section": "Submitted papers",
-    "text": "Submitted papers\n\nA new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to The Annals of Applied Statistics (second submission).\nA new mixed-membership model for community and enterotype detection for microbiome data. Submitted to Computational Statistics & Data Analysis. Joint work with Alice Giampino and Sonia Migliorati.\nFlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro."
+    "section": "About me",
+    "text": "About me\nI am an Assistant Professor in Statistics at the Department of Economics, Management and Statistics (DEMS) of the University of Milano-Bicocca.\nResearch interests: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.\nE-mail: roberto.ascari@unimib.it"
   },
   {
-    "objectID": "conference.html#seminars",
-    "href": "conference.html#seminars",
+    "objectID": "teach.html",
+    "href": "teach.html",
     "title": "Roberto Ascari",
     "section": "",
-    "text": "Dec 2022 - The flexible latent Dirichlet allocation. Dipartimento di Studi per l’Economia e l’Impresa (DISEI), Università del Piemonte Orientale. link\nNov 2021 - A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Department of Economics, University of Crete link"
+    "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 ore (2022/23 - ad oggi). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 ore (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 ore (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 ore (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."
+  },
+  {
+    "objectID": "teach.html#teaching",
+    "href": "teach.html#teaching",
+    "title": "Roberto Ascari",
+    "section": "",
+    "text": "B.Sc. courses (Laurea triennale)\n\nModelli Statistici & R - 73 ore (2022/23 - ad oggi). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.\n\nM.Sc courses (Laurea magistrale)\n\nMetodi Statistici per il Marketing - 63 ore (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.\n\nPh.D. courses (Dottorato)\n\nStatistical Inference I - 15 ore (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.\nStatistical Inference II - 15 ore (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca."
   }
 ]
