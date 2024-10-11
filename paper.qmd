@@ -21,7 +21,7 @@ editor: visual
 
 -   2021 - Sorrentino, S., **Ascari, R.**, et al. (2021). Microglial heterogeneity and its potential role in driving phenotypic diversity of alzheimer’s disease. [***International Journal of Molecular Sciences***]{.text-primary}, 22(5), 2780, [10.3390/ijms22052780](https://doi.org/10.3390/ijms22052780).
 
--   2020 - Maranzano, P., **Ascari, R.**, Chiodini, P.M., Manzi, G. Analysis of sustainability of bike-sharing customers using Partially Ordered Sets methodology. [***Social Indicator Research***]{.text-primary}, 157, 123--138, [10.1007/s11205-020-02333-8](https://doi.org/10.1007/s11205-020-02333-8).
+-   2021 - Maranzano, P., **Ascari, R.**, Chiodini, P.M., Manzi, G. Analysis of sustainability of bike-sharing customers using Partially Ordered Sets methodology. [***Social Indicator Research***]{.text-primary}, 157, 123--138, [10.1007/s11205-020-02333-8](https://doi.org/10.1007/s11205-020-02333-8).
 
 -   2020 - Ongaro, A., Migliorati, S., **Ascari, R.** A new mixture model on the simplex. [***Statistics and Computing***]{.text-primary}, 30, 749-770, [10.1007/s11222-019-09920-x](https://doi.org/10.1007/s11222-019-09920-x).
 
