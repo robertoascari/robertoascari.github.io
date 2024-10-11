@@ -6,28 +6,28 @@ title: ""
 
 University of Milano-Bicocca, Department of Economics, Management and Statistics (DEMS), Milan, Italy.
 
--   Assistant Professor (RTD-B), Mar 2024 - Present;
+-   [Assistant Professor (RTD-B)]{.orange}, Mar 2024 - Present;
 -   Assistant Professor (RTD-A), Mar 2022 - Feb 2024;
-- Postdoctoral fellow, Jun 2019 - Feb 2021;
-- Research associate, Apr 2019 - Jun 2019.
+-   Postdoctoral fellow, Jun 2019 - Feb 2021;
+-   Research associate, Apr 2019 - Jun 2019.
 
 ## Education
 
-- *Ph.D. in Statistics and Mathematics for Finance*, University of Milano-Bicocca.
-Period: 2015 - 2018.
-Thesis: *A family of flexible mixture distributions for constrained data.*
-Advisor: Prof. Andrea Ongaro.
+-   [Ph.D. in Statistics and Mathematics for Finance,]{.orange} University of Milano-Bicocca.\
+    **Period:** 2015 - 2018.\
+    **Thesis:** *A family of flexible mixture distributions for constrained data.*\
+    **Advisor:** Prof. Andrea Ongaro.
 
+-   [M.Sc. in Biostatistics,]{.orange} University of Milano-Bicocca.\
+    **Period:** 2013 - 2015. Final mark: 110/110 with honors. \
+    **Thesis:** *MCMC Bayesian estimation for a particular mixture model on the simplex.* \
+    **Advisor:** Prof. Sonia Migliorati.
 
-- *M.Sc. in Biostatistics*, University of Milano-Bicocca.
-Period: 2013 - 2015. Final mark: 110/110 with honors.
-Thesis: *MCMC Bayesian estimation for a particular mixture model on the simplex.*
-Advisor: Prof. Sonia Migliorati.
+-   [B.Sc. in Statistics and Information Management,]{.orange} University of Milano-Bicocca.\
+    **Period:** 2019 - 2013. Final mark: 107/110.\
+    **Thesis:** *Mortality and respiratory tract infections in a population of 7000 patients undergoing cardiac surgery.*\
+    **Advisor:** Prof. Vincenzo Bagnardi.
 
-- *B.Sc. in Statistics and Information Management*, University of Milano-Bicocca.
-Period: 2019 - 2013. Final mark: 107/110.
-Thesis: *Mortality and respiratory tract infections in a population of 7000 patients undergoing cardiac surgery.*
-Advisor: Prof. Vincenzo Bagnardi.
+## Award
 
-
-
+-   [Young Talents Award,]{.orange} 2024 Edition - University of Milano-Bicocca with the sponsorship of the "Accademia Nazionale dei Lincei". [Third Prize]{https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2024}

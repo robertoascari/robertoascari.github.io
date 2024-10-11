@@ -2,7 +2,69 @@
 title: ""
 editor: visual
 ---
+## Seminars
+
+- Dec 2022 - The flexible latent Dirichlet allocation.  Dipartimento di Studi per l'Economia e l'Impresa (DISEI), Università del Piemonte Orientale.  [link](https://drive.google.com/drive/folders/12X9OQPbkf8cmwDrrMOKaeCIzmaoSlXOl)
+
+- Nov 2021 - A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. Department of Economics, University of Crete
+[link](http://economics.soc.uoc.gr/el/seminar/231/a-new-regression-model-for-overdispersed-binomial-data-accounting-for-outliers-and-an-excess-of-zeros)
 
 ## Conferences
 
--   **Invited talk**:
+- 2024 - 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13--16 December 2024, London (UK). \
+[Invited talk:]{.orange} *Identifying microbiome communities and enterotypes using a novel mixed-membership model.*
+
+- 2024 - SIS2024, 52nd scientific meeting of the Italian Statistical Society, 17--20 June 2024, Bari (Italy).\
+[Contributed talk:]{.orange} *A new distribution for overdispersed count data.*
+
+- 2023 - 14th CLAssification and Data Analysis Group (CLADAG), 11--13 September 2023, Salerno (Italy).\
+[Contributed talk:]{.orange} *A flexible topic model.*
+
+- 2023 - SIS2023, Statistical Learning, Sustainability and Impact Evaluation, 21--23 June 2023, Ancona (Italy).\
+[Invited talk:]{.orange} *An alternative to the Dirichlet-multinomial regression model for microbiome data analysis.*
+
+- 2022 - 15th International Conference of the ERCIM WG on Computational and Methodological Statistics, 17--19 December 2022, London (UK). \
+[Invited talk:]{.orange} *A generalization of the latent Dirichlet allocation.* 
+
+- 2022 - 17th conference of the International Federation of Classification Societies (iFCS)''. 19--23 July 2022. Porto (Portugal).\
+[Contributed talk:]{.orange} *A New Regression Model for the Analysis of Microbiome Data.*
+
+- 2022 - ISBA World Meeting, 26 June -- 1 July, Montreal (Canada).\
+[Poster:]{.orange} *The flexible Dirichlet-multinomial regression model.* 
+
+- 2021 - 13th CLAssification and Data Analysis Group (CLADAG), 9--11 September 2021, Florence (Italy).\
+[Contributed talk:]{.orange} *A full mixture of experts model to classify constrained data.*
+
+- 2021 - 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society,  1--4 June 2021, Atene (Greece). \
+[Organizer]{.orange} of the session: *Regression models for responses with bounded support.* 
+
+- 2021 - 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society,  1--4 June 2021, Atene (Greece). \
+[Contributed talk:]{.orange} *A new regression model for count compositions.*    
+- 2021 - SIS2021, 21--25 June 2021. \ 
+[Contributed talk:]{.orange} *Alternative parameterizations for regression models with constrained multivariate responses.*
+
+
+- 2020 - 6th Stochastic Modeling Techniques and Data Analysis (SMTDA) International Conference, 2--5 June 2020. \
+[Invited talk:]{.orange} *The flexible beta-binomial regression model.*   
+
+- 2019 - 12th International Conference of the ERCIM WG on Computational and Methodological Statistics, 14--16 December 2019, London (UK).  \
+[Contributed talk:]{.orange} *A new regression model for discrete data allowing for overdispersion.*
+
+
+- 2019 - SIS2019, Smart Statistics for Smart Applications, 18--21 June 2019, Milan (Italy). \
+[Contributed talk:]{.orange} *A new regression model for bounded multivariate responses.*  
+
+- 2019 - 18th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society.   11--14 June 2019, Florence (Italy).\
+[Contributed talk:]{.orange} *A new simplex distribution allowing for positive covariances.*  
+
+- 2018 - 11th International Conference of the ERCIM WG on Computational and Methodological Statisticsm  14--16 December 2018, Pisa (Italy).\
+[Contributed talk:]{.orange} *A new Dirichlet-multinomial mixture model for count data.* 
+
+- 2017 - 11th CLAssification and Data Analysis Group (CLADAG)''}, 13--15 September 2017, Milan (Italy).\
+[Contributed talk:]{.orange} *A Special Dirichlet Mixture Model in a Bayesian Perspective.*
+
+- 2017 - 17th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, 6--9 June 2017, London (UK).\
+[Contributed talk:]{.orange} *The Extended Flexible Dirichlet model: a simulation study.*
+
+
+

@@ -28,6 +28,6 @@ about:
 
 I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) at [University of Milano-Bicocca](https://en.unimib.it).
 
-**Research interests**: Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.
+[Research interests:]{.orange} Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.
 
-**E-mail**: roberto.ascari\@unimib.it
+[E-mail:]{.orange}  roberto.ascari\@unimib.it
