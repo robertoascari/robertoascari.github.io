@@ -19,3 +19,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 | Luglio 2025       | 2                 |
 | Settembre 2025    | 0                 |
 | Ottobre 2025      | 0                 |
+
+## Possibili Argomenti Tesi
+
+\[**TBD**\]{.text-primary}
