@@ -6,4 +6,4 @@ editor: visual
 
 ## Thesis Information
 
-## Thesis 
+## Thesis
