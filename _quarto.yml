@@ -4,6 +4,7 @@ project:
   resources:
     - /files
     - /img
+    - /data
 
 website:
   title: "Roberto Ascari"
