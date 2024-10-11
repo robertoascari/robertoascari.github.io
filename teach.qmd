@@ -6,15 +6,15 @@ editor: visual
 
 ## Teaching
 
-B.Sc. courses (*Laurea triennale*)
+**B.Sc. courses (*Laurea triennale*)**
 
 -   [**Modelli Statistici & R**]{.text-primary} - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
-M.Sc courses (*Laurea magistrale*)
+**M.Sc courses (*Laurea magistrale*)**
 
 -   [**Metodi Statistici per il Marketing**]{.text-primary} - 63 hours (2021/22). CdL Magistrale in Marketing e Mercati Globali, University of Milano-Bicocca.
 
-Ph.D. courses (*Dottorato*)
+**Ph.D. courses (*Dottorato*)**
 
 -   [**Statistical Inference I**]{.text-primary} - 15 hours (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
 
