@@ -17,7 +17,7 @@ editor: visual
 
 -   2021 - **Ascari, R.**, Migliorati, S. A new regression model for overdispersed binomial data accounting for outliers and an excess of zeros. [***Statistics in Medicine***]{.text-primary}, 40(17), 3895--3914, [10.1002/sim.9005](https://doi.org/10.1002/sim.9005).
 
--   2021 - Oliveira dos Anjos, T.B., \[et al., including **Ascari, R.**\]. Eutrophic status influences the impact of pesticide mixtures and predation on Daphnia pulex populations. [***Ecology and Evolution***]{.text-primary}. 11(9), 4046-4057, [10.1002/ece3.7305](https://doi.org/10.1002/ece3.7305).
+-   2021 - Oliveira dos Anjos, T.B., \[et al., including **Ascari, R.**\]. Eutrophic status influences the impact of pesticide mixtures and predation on Daphnia pulex populations. [***Ecology and Evolution***]{.text-primary}, 11(9), 4046-4057, [10.1002/ece3.7305](https://doi.org/10.1002/ece3.7305).
 
 -   2021 - Sorrentino, S., **Ascari, R.**, et al. (2021). Microglial heterogeneity and its potential role in driving phenotypic diversity of alzheimer’s disease. [***International Journal of Molecular Sciences***]{.text-primary}, 22(5), 2780, [10.3390/ijms22052780](https://doi.org/10.3390/ijms22052780).
 
