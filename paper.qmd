@@ -5,7 +5,7 @@ editor: visual
 
 ## Published papers
 
--   Accepted - Colicino, E., **Ascari, R.**, Saddiki, H. et al. Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. [***Biometrical Journal***]{.text-primary}, [10.1002/bimj.202300270](https://dx.doi.org/10.1002/bimj.202300270).
+-   Accepted - Colicino, E., **Ascari, R.**, Saddiki, H., **et al.** Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. [***Biometrical Journal***]{.text-primary}, [10.1002/bimj.202300270](https://dx.doi.org/10.1002/bimj.202300270).
 
 -   Accepted - Gerli, S., **Ascari, R.**, Migliorati, S., Cigna, T., Borrotti, M. Beyond human labelling: an automatic topic identification framework for big web data. [***Electronic Journal of Applied Statistical Analysis***]{.text-primary}.
 
@@ -27,7 +27,7 @@ editor: visual
 
 -   2015 - Scandroglio, A., Finco, G., \[et al, including **Ascari, R.**\]. Cardiac surgery in 260 octogenarians: a case series. [***BMC Anesthesiology***]{.text-primary}, 15. [10.1186/1471-2253-15-15](https://doi.org/10.1186/1471-2253-15-15).
 
--   2015 - Pieri, M., Landoni, G., \[et al, including **Ascari, R.**\]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. [***Signa Vitae***]{.text-primary}, 10(2), 65--68, [10.22514/SV102.122015.5](https://doi.org/10.22514/SV102.122015.5). }
+-   2015 - Pieri, M., Landoni, G., \[et al, including **Ascari, R.**\]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. [***Signa Vitae***]{.text-primary}, 10(2), 65--68, [10.22514/SV102.122015.5](https://doi.org/10.22514/SV102.122015.5). 
 
 ## Submitted papers
 
