@@ -9,7 +9,7 @@ about:
   image-shape: round
   links:
     - icon: journal-text
-      text: "Curriculum vitae"
+      text: "CV"
       href: files/Ascari_cv_2024_10 - ITA.pdf
     - icon: envelope-at
       text: "E-mail"
@@ -20,7 +20,14 @@ about:
     - icon: github
       text: "Github"
       href: https://github.com/robertoascari
+    - text: "{{< ai orcid >}} Orcid"
+      href: https://orcid.org/0000-0003-0146-976X
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=56538715900
 ---
+
+<!-- {{< fa brands orcid >}} -->
+<!-- {{< ai orcid >}} -->
 
 ------------------------------------------------------------------------
 
@@ -28,10 +35,10 @@ about:
 
 I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it).
 
-I am member of the Italian Statistical Society ([SIS](https://www.sis-statistica.it/)), the International Society for Bayesian Analysis ([ISBA](https://bayesian.org/)), and their young sessions. 
+I am member of the Italian Statistical Society ([SIS](https://www.sis-statistica.it/)), the International Society for Bayesian Analysis ([ISBA](https://bayesian.org/)), and their young sessions.
 
 I am the maintainer and one of the authors of the [`FlexReg`](https://cran.r-project.org/web/packages/FlexReg/index.html) package on CRAN.
 
 [**Research interests:**]{.text-primary} Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.
 
-[**E-mail:**]{.text-primary}  roberto.ascari\@unimib.it
+[**E-mail:**]{.text-primary} roberto.ascari\@unimib.it
