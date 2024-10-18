@@ -35,7 +35,7 @@ about:
 
 I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it).
 
-I am member of the Italian Statistical Society ([SIS](https://www.sis-statistica.it/)), the International Society for Bayesian Analysis ([ISBA](https://bayesian.org/)), and their young sessions.
+I am member of the Italian Statistical Society ([SIS](https://www.sis-statistica.it/)), the International Society for Bayesian Analysis ([ISBA](https://bayesian.org/)), and their young sections.
 
 I am the maintainer and one of the authors of the [`FlexReg`](https://cran.r-project.org/web/packages/FlexReg/index.html) package on CRAN.
 

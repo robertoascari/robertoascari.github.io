@@ -19,8 +19,8 @@ University of Milano-Bicocca, Department of Economics, Management and Statistics
     **Advisor:** Prof. Andrea Ongaro.
 
 -   [**M.Sc. in Biostatistics,**]{.text-primary} University of Milano-Bicocca.\
-    **Period:** 2013 - 2015. Final mark: 110/110 with honors. \
-    **Thesis:** *MCMC Bayesian estimation for a particular mixture model on the simplex.* \
+    **Period:** 2013 - 2015. Final mark: 110/110 with honors.\
+    **Thesis:** *MCMC Bayesian estimation for a particular mixture model on the simplex.*\
     **Advisor:** Prof. Sonia Migliorati.
 
 -   [**B.Sc. in Statistics and Information Management,**]{.text-primary} University of Milano-Bicocca.\
@@ -30,4 +30,4 @@ University of Milano-Bicocca, Department of Economics, Management and Statistics
 
 ## Award
 
--   [**Young Talents Award,**]{.text-primary} 2024 Edition - University of Milano-Bicocca with the sponsorship of the "Accademia Nazionale dei Lincei". [Third Prize]{https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2024}
+-   [**Young Talents Award,**]{.text-primary} 2024 Edition - University of Milano-Bicocca with the sponsorship of the "Accademia Nazionale dei Lincei". \[Third Prize\]{https://www.unimib.it/news/premio-giovani-talenti-ecco-vincitori-delledizione-2024}
