@@ -27,12 +27,14 @@ editor: visual
 
 -   2015 - Scandroglio, A., Finco, G., \[et al, including **Ascari, R.**\]. Cardiac surgery in 260 octogenarians: a case series. [***BMC Anesthesiology***]{.text-primary}, 15. [10.1186/1471-2253-15-15](https://doi.org/10.1186/1471-2253-15-15).
 
--   2015 - Pieri, M., Landoni, G., \[et al, including **Ascari, R.**\]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. [***Signa Vitae***]{.text-primary}, 10(2), 65--68, [10.22514/SV102.122015.5](https://doi.org/10.22514/SV102.122015.5). 
+-   2015 - Pieri, M., Landoni, G., \[et al, including **Ascari, R.**\]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. [***Signa Vitae***]{.text-primary}, 10(2), 65--68, [10.22514/SV102.122015.5](https://doi.org/10.22514/SV102.122015.5).
 
 ## Submitted papers
 
-- A new  Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***The Annals of Applied Statistics***]{.text-primary} (second submission).
+-   A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***The Annals of Applied Statistics***]{.text-primary} (second submission).
 
-- A new mixed-membership model for community and enterotype detection for microbiome data. Submitted to [***Computational Statistics \& Data Analysis***]{.text-primary}. Joint work with Alice Giampino and Sonia Migliorati.
- 
-- FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
+-   A new mixed-membership model for community and enterotype detection for microbiome data. Submitted to [***Computational Statistics & Data Analysis***]{.text-primary}. Joint work with Alice Giampino and Sonia Migliorati.
+
+-   FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
+
+- Surrogate endpoints for overall survival in neoadjuvant randomized clinical trials for early breast cancer. [***Journal of Clinical Oncology***]{.text-primary}.
