@@ -5,7 +5,7 @@ editor: visual
 
 ## Published papers
 
--   Accepted - Colicino, E., **Ascari, R.**, Saddiki, H., **et al.** Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. [***Biometrical Journal***]{.text-primary}, [10.1002/bimj.202300270](https://dx.doi.org/10.1002/bimj.202300270).
+-   2024 - Colicino, E., **Ascari, R.**, Saddiki, H., **et al.** Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. [***Biometrical Journal***]{.text-primary}, 66(8), [10.1002/bimj.202300270](https://dx.doi.org/10.1002/bimj.202300270).
 
 -   Accepted - Gerli, S., **Ascari, R.**, Migliorati, S., Cigna, T., Borrotti, M. Beyond human labelling: an automatic topic identification framework for big web data. [***Electronic Journal of Applied Statistical Analysis***]{.text-primary}.
 
@@ -37,4 +37,4 @@ editor: visual
 
 -   FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
 
-- Surrogate endpoints for overall survival in neoadjuvant randomized clinical trials for early breast cancer. [***Journal of Clinical Oncology***]{.text-primary}.
+-   Surrogate endpoints for overall survival in neoadjuvant randomized clinical trials for early breast cancer. [***Journal of Clinical Oncology***]{.text-primary}.
