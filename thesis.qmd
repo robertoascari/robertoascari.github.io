@@ -24,8 +24,6 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Studio di particolari modelli mistura finiti a due componenti e relativi metodi di stima.
 
--   Modello di regressione Dirichlet per risposte composizionali.
-
 -   L'extended flexible Dirichlet: un modello mistura per dati composizionali.
 
 -   Regressioni penalizzate: Ridge e Lasso.
