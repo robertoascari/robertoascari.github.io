@@ -16,18 +16,18 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 |-------------------|-------------------|
 | Gennaio 2025      | 1                 |
 | Marzo 2025        | 4                 |
-| Luglio 2025       | 2                 |
+| Luglio 2025       | 3                 |
 | Settembre 2025    | 0                 |
 | Ottobre 2025      | 0                 |
 
 ## Possibili Argomenti Tesi
 
-- Studio di particolari modelli mistura finiti a due componenti e relativi metodi di stima.
+-   Studio di particolari modelli mistura finiti a due componenti e relativi metodi di stima.
 
-- Modello di regressione Dirichlet per risposte composizionali.
+-   Modello di regressione Dirichlet per risposte composizionali.
 
-- L'extended flexible Dirichlet: un modello mistura per dati composizionali.
+-   L'extended flexible Dirichlet: un modello mistura per dati composizionali.
 
-- Regressioni penalizzate: Ridge e Lasso.
+-   Regressioni penalizzate: Ridge e Lasso.
 
-- Latent topic models per dati del microbioma umano.
+-   Latent topic models per dati del microbioma umano.
