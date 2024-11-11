@@ -12,20 +12,20 @@ editor: visual
 
 Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle future sessioni di laurea. Tendenzialmente, non vengono accettati più di **quattro** tesisti per appello di laurea.
 
-| Appello di laurea | Tesisti prenotati |
+| Appello di laurea | Posti liberi      |
 |-------------------|-------------------|
-| Gennaio 2025      | 1                 |
-| Marzo 2025        | 4                 |
-| Luglio 2025       | 3                 |
-| Settembre 2025    | 0                 |
-| Ottobre 2025      | 0                 |
+| Gennaio 2025      | 3                 |
+| Marzo 2025        | 0                 |
+| Luglio 2025       | 1                 |
+| Settembre 2025    | 3                 |
+| Ottobre 2025      | 3                 |
 
 ## Possibili Argomenti Tesi
-
--   Studio di particolari modelli mistura finiti a due componenti e relativi metodi di stima.
 
 -   L'extended flexible Dirichlet: un modello mistura per dati composizionali.
 
 -   Regressioni penalizzate: Ridge e Lasso.
 
 -   Latent topic models per dati del microbioma umano.
+
+-   La regressione di Cox per l'analisi della sopravvivenza.
