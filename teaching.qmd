@@ -8,7 +8,7 @@ editor: visual
 
 **B.Sc. courses (*Laurea triennale*)**
 
--   [**Modelli Statistici & R**]{.text-primary} - Part of *Analisi Statistica Multivariata* - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+-   [[**Modelli Statistici & R**]{.text-primary}](https://robertoascari.github.io/ASM/) - Part of *Analisi Statistica Multivariata* - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
 **M.Sc courses (*Laurea magistrale*)**
 
