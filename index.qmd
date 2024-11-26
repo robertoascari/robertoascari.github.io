@@ -10,7 +10,7 @@ about:
   links:
     - icon: journal-text
       text: "CV"
-      href: files/Ascari_cv_2024_10 - ITA.pdf
+      href: files/Ascari_cv_2024_ITA.pdf
     - icon: envelope-at
       text: "E-mail"
       href: "mailto: roberto.ascari@unimib.it"
