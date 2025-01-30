@@ -31,7 +31,7 @@ editor: visual
 
 ## Submitted papers
 
--   A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***The Annals of Applied Statistics***]{.text-primary} (second submission).
+-   A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***Statistics in Medicine***]{.text-primary}.
 
 -   A new mixed-membership model for community and enterotype detection for microbiome data. Submitted to [***Computational Statistics & Data Analysis***]{.text-primary}. Joint work with Alice Giampino and Sonia Migliorati.
 

@@ -41,7 +41,8 @@ editor: visual
 -   2021 - 19th Conference of the Applied Stochastic Models and Data Analysis (ASMDA) International Society, 1--4 June 2021, Atene (Greece).\
     [**Contributed talk:**]{.text-primary} *A new regression model for count compositions.*\
 
--   2021 - SIS2021, 21--25 June 2021.   [**Contributed talk:**]{.text-primary} *Alternative parameterizations for regression models with constrained multivariate responses.*
+-   2021 - SIS2021, 21--25 June 2021.   \
+    [**Contributed talk:**]{.text-primary} *Alternative parameterizations for regression models with constrained multivariate responses.*
 
 -   2020 - 6th Stochastic Modeling Techniques and Data Analysis (SMTDA) International Conference, 2--5 June 2020.\
     [**Invited talk:**]{.text-primary} *The flexible beta-binomial regression model.*
