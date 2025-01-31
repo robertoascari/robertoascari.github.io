@@ -5,6 +5,8 @@ editor: visual
 
 ## Published papers
 
+- 2025 - Conforti, F., Nekljudova, V., Sala, I., **Ascari, R.**, **et al.** Surrogate end points for overall survival in neoadjuvant randomized clinical trials for early breast cancer. [***Journal of Clinical Oncology***]{.text-primary}, [10.1200/JCO-24-01360)](https://doi.org/10.1200/JCO-24-01360)
+
 -   2024 - Colicino, E., **Ascari, R.**, Saddiki, H., **et al.** Cross-cohort mixture analysis: a data integration approach with applications on gestational age and DNA-methylation-derived gestational age acceleration metrics. [***Biometrical Journal***]{.text-primary}, 66(8), [10.1002/bimj.202300270](https://dx.doi.org/10.1002/bimj.202300270).
 
 -   2024 - Gerli, S., **Ascari, R.**, Migliorati, S., Cigna, T., Borrotti, M. Beyond human labelling: an automatic topic identification framework for big web data. [***Electronic Journal of Applied Statistical Analysis***]{.text-primary}, 17(03), 545--571, [10.1285/i20705948v17n3p545](https://dx.doi.org/10.1285/i20705948v17n3p545).
