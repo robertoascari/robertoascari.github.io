@@ -8,7 +8,7 @@ editor: visual
 
 **B.Sc. courses (*Laurea triennale*)**
 
--   [[**Modelli Statistici & R**]{.text-primary}](https://robertoascari.github.io/ASM/) - Part of *Analisi Statistica Multivariata* - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
+-   [[**Modelli Statistici & R**](https://robertoascari.github.io/ASM/)]{.text-primary} - Part of *Analisi Statistica Multivariata* - 73 hours (2022/23 - today). CdL Triennale in Scienze Statistiche ed Economiche, University of Milano-Bicocca.
 
 **M.Sc courses (*Laurea magistrale*)**
 
@@ -19,3 +19,7 @@ editor: visual
 -   [**Statistical Inference I**]{.text-primary} - 15 hours (2021/22 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
 
 -   [**Statistical Inference II**]{.text-primary} - 15 hours (2022/23 - 2023/24). Ph.D. in Economics, Statistics and Data Science, University of Milano-Bicocca.
+
+
+**Other Courses**
+- [[**Analisi di dati ambientali tramite risorse open source per la Data Science**](rborgoni.github.io/B.STAT.5/)]{.text-primary} - 15 hours (2024/25). Percorsi PNRR: orientamento nella transizione scuola-università
