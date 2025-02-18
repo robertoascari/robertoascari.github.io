@@ -4,25 +4,6 @@ format: html
 editor: visual
 ---
 
-## Informazioni Scrittura Tesi
-
-[**TBD**]{.text-primary}
-
-Si consiglia caldamente l'utilizzo di [**LaTeX**]{.text-primary} per la scrittura tella tesi. In particolare, [Overleaf](www.overleaf.com) è una piattaforma online che facilita la scrittura e la collaborazione su documenti in LaTeX. Offre un editor intuitivo accessibile da qualsiasi dispositivo, senza necessità di dover installazione software. Tra le sue funzionalità principali:
-
--  Collaborazione in tempo reale: più utenti possono lavorare simultaneamente sullo stesso documento, visualizzando immediatamente le modifiche degli altri.
-
--  Controllo delle versioni: mantiene traccia delle modifiche, permettendo di ripristinare versioni precedenti del documento.
-
--  Ampia gamma di template: dispone di migliaia di modelli predefiniti per articoli scientifici, tesi, presentazioni e altro, facilitando l'avvio di nuovi progetti.
-
--  Compilazione automatica: genera istantaneamente l'anteprima del documento, evidenziando eventuali errori di compilazione.
-
--  Gestione integrata delle bibliografie: supporta l'inserimento e la formattazione automatica delle citazioni bibliografiche.
-
-Questo [template](docs/files/Template_Tesi.zip) è possibile scaricare un template che è possibile modificare per iniziare a scrivere la propria tesi. Su Overleaf si clicchi su "Nuovo Progetto" e scegliere "Carica Progetto". Una volta compilato il progetto, il risultato dovrebbe [questo](docs/files/Template_Tesi.zip).
-Si ringrazia Tommaso Rigon per la base del template.
-
 
 
 ## Laureandi
@@ -47,3 +28,23 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 -   Latent topic models per dati del microbioma umano.
 
 -   La regressione di Cox per l'analisi della sopravvivenza.
+
+
+
+
+## Informazioni Scrittura Tesi
+
+Si consiglia caldamente l'utilizzo di [**LaTeX**]{.text-primary} per la scrittura della propria tesi. In particolare, [**Overleaf**](www.overleaf.com) è una piattaforma online che facilita la scrittura e la collaborazione su documenti in LaTeX. Offre un editor intuitivo accessibile da qualsiasi dispositivo, senza necessità di dover installazione software. Tra le sue funzionalità principali:
+
+-  [Collaborazione]{.text-primary} in tempo reale: più utenti possono lavorare simultaneamente sullo stesso documento, visualizzando immediatamente le modifiche degli altri.
+
+-  Controllo delle versioni: mantiene traccia delle modifiche, permettendo di ripristinare versioni precedenti del documento.
+
+-  Ampia gamma di [template]{.text-primary}: dispone di migliaia di modelli predefiniti per articoli scientifici, tesi, presentazioni e altro, facilitando l'avvio di nuovi progetti.
+
+-  Compilazione automatica: genera istantaneamente l'anteprima del documento, evidenziando eventuali errori di compilazione.
+
+-  Gestione integrata della [bibliografia]{.text-primary}: supporta l'inserimento e la formattazione automatica delle citazioni bibliografiche.
+
+Questo [template](files/Template_Tesi.zip) può essere scaricato e modificato per iniziare a scrivere la propria tesi. Su Overleaf si clicchi su "Nuovo Progetto" e scegliere "Carica Progetto". Una volta compilato il progetto, il risultato dovrebbe [questo](files/Template_Tesi.zip).
+Un ringraziamento a Tommaso Rigon per la base del template.
