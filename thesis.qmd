@@ -25,7 +25,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Latent topic models per dati del microbioma umano.
 
--   Latent topic models per l'analisi di temi ricorrenti nei testi delle canzoni del festival di Sanremo.
+-   Latent topic models per l'analisi di temi ricorrenti nei testi delle canzoni del festival di Sanremo.....
 
 -   La regressione di Cox per l'analisi della sopravvivenza.
 
