@@ -12,8 +12,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 |-------------------|--------------|
 | Marzo 2025        | 0            |
 | Luglio 2025       | 0            |
-| Settembre 2025    | 0            |
-| Ottobre 2025      | 2            |
+| Ottobre 2025      | 0            |
 | Gennaio 2026      | 3            |
 | Marzo 2026        | 3            |
 
