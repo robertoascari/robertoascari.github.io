@@ -19,11 +19,17 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   L'extended flexible Dirichlet: un modello mistura per dati composizionali.
 
+-   Modelli di regressione per proporzioni (i.e., risposte definite su $(0,1)$).
+
+-   Modelli di regressione per dati binomiali sovradispersi.
+
 -   Regressioni penalizzate: Ridge e Lasso.
 
 -   Latent topic models per dati del microbioma umano.
 
 -   La regressione di Cox per l'analisi della sopravvivenza.
+
+-   Distribuzione binomiale negativa e relativo modello di regressione.
 
 ## Informazioni Scrittura Tesi
 
