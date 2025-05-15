@@ -5,7 +5,7 @@ editor: visual
 
 ## Published papers
 
--   2025 - Giampino, A., **Ascari, R.**, Migliorati, S.  A flexible mixed-membership model for community and enterotype detection for microbiome data. [***Computational Statistics and Data Analysis***]{.text-primary}, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
+-   2025 - Giampino, A., **Ascari, R.**, Migliorati, S. A flexible mixed-membership model for community and enterotype detection for microbiome data. [***Computational Statistics and Data Analysis***]{.text-primary}, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
 
 -   2025 - Conforti, F., Nekljudova, V., Sala, I., **Ascari, R.**, **et al.** Surrogate end points for overall survival in neoadjuvant randomized clinical trials for early breast cancer, [***Journal of Clinical Oncology***]{.text-primary}, [10.1200/JCO-24-01360](https://doi.org/10.1200/JCO-24-01360).
 
@@ -37,8 +37,5 @@ editor: visual
 
 -   A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***Statistics in Medicine***]{.text-primary}.
 
--   A new mixed-membership model for community and enterotype detection for microbiome data. Submitted to [***Computational Statistics & Data Analysis***]{.text-primary}. Joint work with Alice Giampino and Sonia Migliorati.
 
 -   FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
-
--   Surrogate endpoints for overall survival in neoadjuvant randomized clinical trials for early breast cancer. [***Journal of Clinical Oncology***]{.text-primary}.
