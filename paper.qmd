@@ -5,6 +5,9 @@ editor: visual
 
 ## Published papers
 
+- Accepted - **Ascari, R.**, Migliorati, S., Ongaro, A. A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. [***Statistics in Medicine***]{.text-primary}.
+
+
 -   2025 - Giampino, A., **Ascari, R.**, Migliorati, S. A flexible mixed-membership model for community and enterotype detection for microbiome data. [***Computational Statistics and Data Analysis***]{.text-primary}, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
 
 -   2025 - Conforti, F., Nekljudova, V., Sala, I., **Ascari, R.**, **et al.** Surrogate end points for overall survival in neoadjuvant randomized clinical trials for early breast cancer, [***Journal of Clinical Oncology***]{.text-primary}, [10.1200/JCO-24-01360](https://doi.org/10.1200/JCO-24-01360).
@@ -34,8 +37,6 @@ editor: visual
 -   2015 - Pieri, M., Landoni, G., \[et al, including **Ascari, R.**\]. Methicillin-resistant staphylococcus species in a cardiac surgical intensive care unit. [***Signa Vitae***]{.text-primary}, 10(2), 65--68, [10.22514/SV102.122015.5](https://doi.org/10.22514/SV102.122015.5).
 
 ## Submitted papers
-
--   A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. Submitted to [***Statistics in Medicine***]{.text-primary}.
 
 -   FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
 
