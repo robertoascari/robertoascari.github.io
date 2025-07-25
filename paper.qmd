@@ -5,7 +5,7 @@ editor: visual
 
 ## Published papers
 
-- Accepted - **Ascari, R.**, Migliorati, S., Ongaro, A. A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. [***Statistics in Medicine***]{.text-primary}.
+- Accepted - **Ascari, R.**, Migliorati, S., Ongaro, A. A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. [***Statistics in Medicine***]{.text-primary}, [10.1002/sim.70220]{https://doi.org/10.1002/sim.70220).
 
 
 -   2025 - Giampino, A., **Ascari, R.**, Migliorati, S. A flexible mixed-membership model for community and enterotype detection for microbiome data. [***Computational Statistics and Data Analysis***]{.text-primary}, [10.1016/j.csda.2025.108181](https://doi.org/10.1016/j.csda.2025.108181).
