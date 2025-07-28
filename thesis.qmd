@@ -10,10 +10,11 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
-| Ottobre 2025      | 0            |
 | Gennaio 2026      | 0            |
-| Marzo 2026        | 1            |
+| Marzo 2026        | 0            |
 | Luglio 2026       | 3            |
+| Ottobre 2026      | 4            |
+
 
 ## Possibili Argomenti Tesi
 
@@ -27,7 +28,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Latent topic models per dati del microbioma umano.
 
--   La regressione di Cox per l'analisi della sopravvivenza.
+<!-- -   La regressione di Cox per l'analisi della sopravvivenza. -->
 
 -   Distribuzione binomiale negativa e relativo modello di regressione.
 
