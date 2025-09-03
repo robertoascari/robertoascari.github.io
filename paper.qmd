@@ -39,7 +39,7 @@ editor: visual
 
 -   FlexReg: an R package for fitting regression models on bounded univariate responses. To be resubmitted. Joint work with Agnese M. Di Brisco, Sonia Migliorati, and Andrea Ongaro.
 
-## Contribution as book chapter
+## Contributions as book chapters
 
 -   2025 - Montagna, S. **Ascari, R.**, Khorrami Chokami, A. Spectral Synchronicity of EMG Signals: An Application to the Erector Spinae Muscles of Sitting Violinists. [10.1007/978-3-031-96033-8_9](https://doi.org/10.1007/978-3-031-96033-8_9).
 
