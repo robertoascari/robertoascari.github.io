@@ -10,9 +10,9 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
-| Gennaio 2026      | 0            |
+| Dicembre 2025     | 0            |
 | Marzo 2026        | 0            |
-| Luglio 2026       | 2            |
+| Luglio 2026       | 0            |
 | Ottobre 2026      | 4            |
 
 ## Possibili Argomenti Tesi
