@@ -31,6 +31,10 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Distribuzione binomiale negativa e relativo modello di regressione.
 
+-   Il modello di regressione lineare con approccio Bayesiano.
+
+-   Il metodo bootstrap ed i modelli di regressione.
+
 ## Informazioni Scrittura Tesi
 
 Si consiglia caldamente l'utilizzo di [**LaTeX**]{.text-primary} per la scrittura della propria tesi. In particolare, [**Overleaf**](www.overleaf.com) è una piattaforma online che facilita la scrittura e la collaborazione su documenti in LaTeX. Offre un editor intuitivo accessibile da qualsiasi dispositivo, senza necessità di dover installazione software. Tra le sue funzionalità principali:
