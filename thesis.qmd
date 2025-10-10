@@ -13,7 +13,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 | Dicembre 2025     | 0            |
 | Marzo 2026        | 0            |
 | Luglio 2026       | 0            |
-| Ottobre 2026      | 4            |
+| Ottobre 2026      | 3            |
 
 ## Possibili Argomenti Tesi
 
@@ -23,7 +23,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Modelli di regressione per dati binomiali sovradispersi.
 
--   Regressioni penalizzate: Ridge e Lasso.
+<!-- -   Regressioni penalizzate: Ridge e Lasso. -->
 
 -   Latent topic models per dati del microbioma umano.
 
