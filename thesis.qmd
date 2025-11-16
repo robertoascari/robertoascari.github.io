@@ -32,7 +32,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 
 -   Distribuzione binomiale negativa e relativo modello di regressione.
 
--   Il modello di regressione lineare con approccio Bayesiano.
+<!-- -   Il modello di regressione lineare con approccio Bayesiano. -->
 
 -   Il metodo bootstrap ed i modelli di regressione.
 
