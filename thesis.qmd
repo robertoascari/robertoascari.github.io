@@ -4,9 +4,10 @@ format: html
 editor: visual
 ---
 
-## Laureandi
 
-Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle future sessioni di laurea. Tendenzialmente, non vengono accettati più di **quattro** tesisti per appello di laurea.
+## Laureandə
+
+Di seguito viene riportato il numero di disponibilità di tesi per le future sessioni di laurea. Tendenzialmente, non vengono accettati più di **quattro** tesisti per appello di laurea.
 
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
@@ -14,7 +15,7 @@ Di seguito viene riportato il numero di tesisti che desiderano laurearsi nelle f
 | Marzo 2026        | 0            |
 | Luglio 2026       | 0            |
 | Ottobre 2026      | 0            |
-| Dicembre 2026     | 4            |
+| Dicembre 2026     | 3            |
 
 ## Possibili Argomenti Tesi
 
