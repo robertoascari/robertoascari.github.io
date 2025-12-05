@@ -4,10 +4,9 @@ format: html
 editor: visual
 ---
 
-
 ## Laureandə
 
-Di seguito viene riportato il numero di disponibilità di tesi per le future sessioni di laurea. Tendenzialmente, non vengono accettati più di **quattro** tesisti per appello di laurea.
+Di seguito viene riportato il numero di disponibilità di tesi per le future sessioni di laurea. Tendenzialmente, non vengono accettatə più di **quattro** tesistə per appello di laurea.
 
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
