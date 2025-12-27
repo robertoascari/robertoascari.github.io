@@ -11,6 +11,9 @@ editor: visual
 
 ## Conferences
 
+-   2025 - 19th International Conference of the ERCIM WG on Computational and Methodological Statistics, 12--15 December 2025, London (UK).\
+    [**Invited talk:**]{.text-primary} *Modeling count compositions through a structured mixture of Dirichlet-multinomial components.*
+
 -   2024 - 18th International Conference of the ERCIM WG on Computational and Methodological Statistics, 13--16 December 2024, London (UK).\
     [**Invited talk:**]{.text-primary} *Identifying microbiome communities and enterotypes using a novel mixed-membership model.*
 
