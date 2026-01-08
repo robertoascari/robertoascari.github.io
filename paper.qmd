@@ -4,6 +4,7 @@ editor: visual
 ---
 
 ## Published papers
+
 <!-- -   2026 - **Ascari, R.**, Di Brisco, A.M., Migliorati, S., Ongaro, A. FlexReg: An R Package for Fitting a General Class of Mixture Regression Models with Bounded Responses in a Bayesian Framework. [***Computational Statistics***]{.text-primary}, XX (XX--XX), [10.1002/XXXX](https://doi.org/10.1002/XXXX).-->
 
 -   2025 - **Ascari, R.**, Migliorati, S., Ongaro, A. A new Dirichlet-multinomial mixture regression model for the analysis of microbiome data. [***Statistics in Medicine***]{.text-primary}, 44 (18--19), [10.1002/sim.70220](https://doi.org/10.1002/sim.70220).
@@ -38,7 +39,7 @@ editor: visual
 
 ## Submitted papers
 
--   
+-   **Ascari, R.**, Giampino, A., and Migliorati, S. Sub-topics detection with extended flexible latent Dirichlet allocation. Round I.
 
 ## Contributions as book chapters
 
