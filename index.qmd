@@ -36,10 +36,10 @@ about:
 
 I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it).
 
-I am member of the Italian Statistical Society ([SIS](https://www.sis-statistica.it/)), the International Society for Bayesian Analysis ([ISBA](https://bayesian.org/)) and their young sections. I was also member of the "Gruppo Nazionale per l’Analisi Matematica, la Probabilità e le loro Applicazioni" ([GNAMPA](https://www.altamatematica.it/gnampa/)).
-
 I am the maintainer and one of the authors of the [`FlexReg`](https://cran.r-project.org/web/packages/FlexReg/index.html) package on CRAN.
 
-[**Research interests:**]{.text-primary} Compositional data analysis; Bayesian inference; Mixture models; Computational Statistics; Regression models for bounded responses; Latent topic models.
+I manage the social media presence of DEMS, including the Instagram pages for [DEMS](https://www.instagram.com/dems_unimib?igsh=MWl4MjJhNnY0Z2phaA==) and its [statistical courses](https://www.instagram.com/stat_dems_unimib?igsh=MTBtcWNscjFkdnpnMQ==), and the LinkedIn page of the [DEMS statistical group](https://www.linkedin.com/company/statistica-dems-universit%C3%A0-milano-bicocca).
+
+[**Research interests:**]{.text-primary} Compositional data analysis; Bayesian inference; Mixture models; Regression models for bounded responses; Latent topic models.
 
 [**E-mail:**]{.text-primary} roberto.ascari\@unimib.it
