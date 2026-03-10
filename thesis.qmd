@@ -25,15 +25,15 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 
 <!-- -   Regressioni penalizzate: Ridge e Lasso. -->
 
--   Latent topic models per dati del microbioma umano.
+<!-- -   Latent topic models per dati del microbioma umano. -->
 
 <!-- -   La regressione di Cox per l'analisi della sopravvivenza. -->
 
--   Distribuzione binomiale negativa e relativo modello di regressione.
+<!-- -   Distribuzione binomiale negativa e relativo modello di regressione. -->
 
 <!-- -   Il modello di regressione lineare con approccio Bayesiano. -->
 
--   Il metodo bootstrap ed i modelli di regressione.
+<!-- -   Il metodo bootstrap ed i modelli di regressione. -->
 
 ## Informazioni Scrittura Tesi
 
