@@ -38,7 +38,7 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 
 ## Informazioni Scrittura Tesi
 
-Si consiglia caldamente l'utilizzo di [**LaTeX**]{.text-primary} per la scrittura della propria tesi. In particolare, [**Overleaf**](www.overleaf.com) è una piattaforma online che facilita la scrittura e la collaborazione su documenti in LaTeX. Offre un editor intuitivo accessibile da qualsiasi dispositivo, senza necessità di dover installazione software. Tra le sue funzionalità principali:
+Si consiglia caldamente l'utilizzo di [**LaTeX**]{.text-primary} per la scrittura della propria tesi. In particolare, [**Overleaf**](https://www.overleaf.com) è una piattaforma online che facilita la scrittura e la collaborazione su documenti in LaTeX. Offre un editor intuitivo accessibile da qualsiasi dispositivo, senza necessità di dover installazione software. Tra le sue funzionalità principali:
 
 -   [Collaborazione]{.text-primary} in tempo reale: più utenti possono lavorare simultaneamente sullo stesso documento, visualizzando immediatamente le modifiche degli altri.
 
