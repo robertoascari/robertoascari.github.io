@@ -12,9 +12,8 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 |-------------------|--------------|
 | Luglio 2026       | 0            |
 | Ottobre 2026      | 0            |
-| Dicembre 2026     | 1            |
+| Dicembre 2026     | 0            |
 | Marzo 2027        | 3            |
-
 
 ## Possibili Argomenti Tesi
 
