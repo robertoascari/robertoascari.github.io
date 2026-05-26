@@ -34,7 +34,7 @@ about:
 
 ## About me
 
-I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it).
+I am an Assistant Professor in Statistics at the [Department of Economics, Management and Statistics](https://www.dems.unimib.it/en) (DEMS) of the [University of Milano-Bicocca](https://en.unimib.it) and the representative of the researchers on the department board.
 
 I am the maintainer and one of the authors of the [`FlexReg`](https://cran.r-project.org/web/packages/FlexReg/index.html) package on CRAN.
 
