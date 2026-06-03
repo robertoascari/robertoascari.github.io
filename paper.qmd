@@ -5,7 +5,7 @@ editor: visual
 
 ## Published papers
 
--   Accepted. **Ascari, R.**, Giampino, A., Migliorati, S. Sub-topics detection with extended flexible latent Dirichlet allocation. [***Advances in Data Analysis and Classification***]{.text-primary}
+-   Accepted. **Ascari, R.**, Giampino, A., Migliorati, S. Sub-topics detection with extended flexible latent Dirichlet allocation. [***Advances in Data Analysis and Classification***]{.text-primary}, [10.1007/s11634-026-00690-9](https://doi.org/10.1007/s11634-026-00690-9).
 
 -   2026 - **Ascari, R.**, Di Brisco, A.M., Migliorati, S., Ongaro, A. FlexReg: An R Package for Fitting a General Class of Mixture Regression Models with Bounded Responses in a Bayesian Framework. [***Computational Statistics***]{.text-primary}, 41(42), [10.1007/s00180-026-01720-y](https://doi.org/10.1007/s00180-026-01720-y).
 
