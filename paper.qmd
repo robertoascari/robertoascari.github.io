@@ -45,7 +45,7 @@ editor: visual
 
 -   2026 - **Ascari, R.**, Fiori, A.M., Oliosi, G., Pasquazzi, L. Partitional Clustering of Compositional Data with Zeros. [10.1007/978-3-032-32009-4_2](https://doi.org/10.1007/978-3-032-32009-4_2).
 
--   2026 - **Ascari, R.**, Giampino, A. Nava, C.R. Latent Dirichlet Allocation to Study Territorial Identity via In-Depth Interviews. [10.1007/978-3-032-30877-1_22](https://doi.org/10.1007/978-3-032-30877-1_22).
+-   2026 - **Ascari, R.**, Giampino, A., Nava, C.R. Latent Dirichlet Allocation to Study Territorial Identity via In-Depth Interviews. [10.1007/978-3-032-30877-1_22](https://doi.org/10.1007/978-3-032-30877-1_22).
 
 -   2025 - Montagna, S. **Ascari, R.**, Khorrami Chokami, A. Spectral Synchronicity of EMG Signals: An Application to the Erector Spinae Muscles of Sitting Violinists. [10.1007/978-3-031-96033-8_9](https://doi.org/10.1007/978-3-031-96033-8_9).
 
