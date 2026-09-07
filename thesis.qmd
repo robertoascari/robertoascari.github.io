@@ -10,10 +10,11 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
-| Ottobre 2026      | 0            |
-| Dicembre 2026     | 0            |
-| Marzo 2027        | 3            |
+| Marzo 2027        | 1            |
 | Luglio2027        | 4            |
+| Ottobre 2027      | 4            |
+| Dicembre 2027     | 4            |
+
 
 ## Possibili Argomenti Tesi
 
@@ -22,6 +23,12 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 -   Modelli di regressione per proporzioni (i.e., risposte definite su $(0,1)$).
 
 -   Modelli di regressione per dati binomiali sovradispersi.
+
+-   Clustering per dati qualitativi e quantitativi: l'algoritmo dei $k$ prototipi.
+
+-   L'algoritmo dei $k$ prototipi per il clustering  di dati composizionali con zeri.
+
+-   Latent topic models per l'analisi dei gruppi di ricerca della sezione di Statistica del DEMS.
 
 <!-- -   Regressioni penalizzate: Ridge e Lasso. -->
 
