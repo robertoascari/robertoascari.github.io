@@ -11,7 +11,7 @@ Di seguito viene riportato il numero di disponibilità di tesi per le future ses
 | Appello di laurea | Posti liberi |
 |-------------------|--------------|
 | Marzo 2027        | 1            |
-| Luglio2027        | 4            |
+| Luglio2027        | 3            |
 | Ottobre 2027      | 4            |
 | Dicembre 2027     | 4            |
 
